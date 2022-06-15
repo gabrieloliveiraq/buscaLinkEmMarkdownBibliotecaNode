@@ -11,3 +11,7 @@
 - Utilização do try/catch;
 
 - Utilização do fetch();
+
+- Utilização de Expressões Regulares
+
+
