@@ -14,4 +14,4 @@
 
 - Utilização de Expressões Regulares
 
-
+- Criação de CLI

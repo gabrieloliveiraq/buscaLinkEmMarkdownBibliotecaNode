@@ -14,7 +14,8 @@
   "author": "Gabriel de Oliveira",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.0.1"
+    "chalk": "^5.0.1",
+    "node-fetch": "^3.2.6"
   },
-    "type": "module"  
+  "type": "module"
 }
